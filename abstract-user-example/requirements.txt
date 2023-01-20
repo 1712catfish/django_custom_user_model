@@ -1,0 +1,7 @@
+django
+djangorestframework
+drf-yasg
+djoser==2.1.0
+djangorestframework_simplejwt==4.8.0
+social-auth-app-django==4.0.0
+drf-access-policy
